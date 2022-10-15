@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotographia.Functions", "Lotographia.Functions.csproj", "{060AD219-4C94-4645-9ADF-73F62EF5553B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{060AD219-4C94-4645-9ADF-73F62EF5553B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{060AD219-4C94-4645-9ADF-73F62EF5553B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{060AD219-4C94-4645-9ADF-73F62EF5553B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{060AD219-4C94-4645-9ADF-73F62EF5553B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C648BF6-856B-424B-82F1-F586115AB87E}
+	EndGlobalSection
+EndGlobal
